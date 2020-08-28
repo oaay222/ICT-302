@@ -9,7 +9,7 @@ I love learning about IT and other different forms of technology ranging from ha
 
 Some of my favorite sports to watch are the following:
 <ul>
-  <li>Basketball</li>
+  <li><p>Basketball</p></li>
   <li>Soccer</li>
   <li>Football</li>
 </ul>
