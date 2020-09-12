@@ -13,4 +13,4 @@ Explore the far reaches of the galaxy with this space-themed dummy text generato
 >
 Explore the far reaches of the galaxy with this space-themed dummy text generator, with quotes from TV classics like Star Trek and real astronauts themselves.
 A web generator and jQuery plugin, Delorean Ipsum uses the script from Back to the Future to generate quotable lorem ipsum text for every project, past or present.
-(https://vigorous-jones-891bb5.netlify.app/porsche.jpg)
+(https://vigorous-jones-891bb5.netlify.app/Porsche.jpg)
