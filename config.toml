@@ -41,13 +41,13 @@ weight = 1
 url = "/introduction/"
 
 name = "DummyAnnotateddefinitions" 
-url = "/DummyAnnotateddefinitions/"
 wright = 1
+url = "/DummyAnnotateddefinitions/"
 
 name = "DummyResourceGuide" 
-url = "/DummyResourceGuide/"
 weight = 1
+url = "/DummyResourceGuide/"
 
 name = "DummyWalkthrough"
-url = "/DummyWalkthrough/"
 weight = 1
+url = "/DummyWalkthrough/"
