@@ -36,6 +36,18 @@ HUGO_ENABLEGITINFO = "true"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "Introduction" 
 weight = 1
 url = "/introduction/"
+
+name = "DummyAnnotateddefinitions" 
+url = "/DummyAnnotateddefinitions/"
+wright = 2
+
+name = "DummyResourceGuide" 
+url = "/DummyResourceGuide/"
+weight = 3
+
+name = "DummyWalkthrough"
+url = "/DummyWalkthrough/"
+weight = 4
