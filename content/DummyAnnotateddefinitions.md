@@ -4,6 +4,7 @@ date: 2020-08-24T00:00:00-04:00
 draft: false
 ---
 ## Defintions: 
+LOREM IPSUM
 The classic latin passage that just never gets old, enjoy as much (or as little) lorem ipsum as you can handle with our easy to use filler text generator.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -22,7 +23,7 @@ Lorem ipsum dolor amet mustache knausgaard +1, blue bottle waistcoat tbh semioti
 ZOMBIE IPSUM
 Raise your design from the dead with an army of Zombie Ipsum, frightful filler text that just won't die. Try the lorem ipsum of the undead if you dare...
 
-Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium.
+Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium.
 BACON IPSUM
 Like your lorem ipsum extra crispy? Then Bacon Ipsum is the placeholder text generator for you. Side of eggs and hashbrowns is optional, but recommended.
 
@@ -41,14 +42,5 @@ Explore the far reaches of the galaxy with this space-themed dummy text generato
 Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before. Many say exploration is part of our destiny, but it’s actually our duty to future generations and their quest to ensure the survival of the human species.
 BUSEY IPSUM
 A Gary Busey themed lorem ipsum generator to fill your project with a never ending stream of “buseyisms,” quotes taken directly from the actor's extensive filmography.
-
-Busey ipsum dolor sit amet. Have you urinated? Have you drained your bladder? Are you free? Because if you haven't it will only come out later. I'm giving you some information that your bodily fluids may penetrate your clothing fibre's without warning.It's OK to get Rib-grease on your face, because you're allowing people to see that you're proud of these ribs.
-VEGGIE IPSUM
-High in fiber and good for your heart, Veggie Ipsum delivers the most organic, hand-picked, lorem ipsum placeholder text right to your door (or browser... I guess).
-
-Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.
-SAMUEL L. IPSUM
-Lorem ipsum that packs a punch. For a new twist on an old classic, drop some Samuel L. Jackson filler text in your next project and Pulp Fictionize that shit.
-
 
 CAT IPSUM
