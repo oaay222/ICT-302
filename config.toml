@@ -40,14 +40,17 @@ name = "Introduction"
 weight = 1
 url = "/introduction/"
 
+[[menu.main]]
 name = "DummyAnnotateddefinitions" 
 wright = 1
 url = "/DummyAnnotateddefinitions/"
 
+[[menu.main]]
 name = "DummyResourceGuide" 
 weight = 1
 url = "/DummyResourceGuide/"
 
+[[menu.main]]
 name = "DummyWalkthrough"
 weight = 1
 url = "/DummyWalkthrough/"
