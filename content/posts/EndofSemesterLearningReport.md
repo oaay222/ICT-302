@@ -1,6 +1,6 @@
 ---
-title: "End Of Semester Learning Report"
-date: 2020-12-04T00:00:00-04:00
+title: "End of Semester Learning Report"
+date: 2020-12-28T00:00:00-04:00
 draft: false
 ---
 ### I can identify and define key concepts in (web) content management:
